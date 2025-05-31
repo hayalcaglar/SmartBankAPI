@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "CEm0jgQ8dY9bdzB5qPnmFPPRkf7niG9ZuiTG07TGMjo=",
+  "Source": "SmartBankAPI",
+  "BasePath": "_content/SmartBankAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
